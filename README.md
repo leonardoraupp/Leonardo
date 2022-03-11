@@ -1,4 +1,6 @@
-### Hi there 👋
+### Software Tester Automator | Student Systems Analysis and Development
+Another github: @LeonardoTestingCompany | 
+@imleoraupp on IG.
 
 <!--
 **leonardoraupp/LeonardoRaupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
