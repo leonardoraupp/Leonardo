@@ -1,7 +1,8 @@
 ### 
-Another github: https://github.com/LeonardoTestingCompany | 
-@imleoraupp on IG.
-
+<div><h3>Hi. I'm Leo Raupp</h3>
+<h5>I'm currently working at Testing Company<h5>
+<h5>I'm learning web programmer, Javascript, HTML, CSS but also another technologies. I'm studying English also.<h5>
+<div>
 <!--
 **leonardoraupp/LeonardoRaupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
