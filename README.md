@@ -1,4 +1,4 @@
-### Software Tester Automator | Student Systems Analysis and Development
+### 
 Another github: https://github.com/LeonardoTestingCompany | 
 @imleoraupp on IG.
 
