@@ -1,8 +1,8 @@
 ### 
-<div><h3>Hi. I'm Leo Raupp</h3>
-<h5>I'm currently working at Testing Company<h5>
-<h5>I'm learning web programmer, Javascript, HTML, CSS but also another technologies. I'm studying English also.<h5>
-<div>
+<h3>Hi. I'm Leo Raupp</h3>
+I'm currently working at Testing Company
+I'm learning web programmer, Javascript, HTML, CSS but also another technologies. I'm studying English also.
+
 <!--
 **leonardoraupp/LeonardoRaupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
