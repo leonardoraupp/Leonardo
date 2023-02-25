@@ -1,7 +1,8 @@
 ### 
-<h3>Hi. I'm Leo Raupp</h3>
-I'm currently working at Testing Company.
-I'm learning web programmer, Javascript, HTML, CSS but also another technologies. I'm studying English. I also use Java and Selenium daily in my job. I'm interested in backend also so I want start soon.  
+<h3>Hi there!I'm Leo😄</h3>
+I'm currently working like QA at a big tech company.
+At moment I'm learning and studyning about WEB environment. I like a lot development and test area. I'm also studying English.
+In the future I intend to learn about the Kotlin language and Mobile development because it looks really nice.
 
 <!--
 **leonardoraupp/LeonardoRaupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
