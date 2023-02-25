@@ -1,6 +1,6 @@
 ### 
 <h3>Hi there!I'm Leo😄</h3>
-I'm currently working like QA at a big tech company.
+I'm currently working like QA at a big tech company in Brazil.
 At moment I'm learning and studyning about WEB environment. I like a lot development and test area. I'm also studying English.
 In the future I intend to learn about the Kotlin language and Mobile development because it looks really nice.
 
