@@ -1,5 +1,5 @@
 ### 
-<h3>Hi there! I'm Léo😄</h3>
+<h3>It's me</h3>
 I'm currently working like QA at a big tech company in Brazil.<br>
 I like a lot development and test area. At moment I'm learning and studyning about WEB environment. <br>I'm also studying English.<br>
 In the future I intend to learn about the Kotlin language and mobile development because it looks really nice.
