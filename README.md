@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo and I'm a QA and student, from Brazil.</p>
+<p align="left">My name is Leonardo and I'm a Test Automation Developer and a student on IT area  and English. I'm from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with tech since 2021. Currently, I work as a QA in a technology company in Brazil.<br>📚 I'm currently learning web frameworks and techs, English and studying at a university.<br>🎯 Goals: Graduate at uni, become a great IT professional both in QA side and in Dev side.<br>🎲 Fun fact: I started my first experience in IT area as a PHP programmer but I coded often in Javascript than PHP. Nowdays, I am into Backend development like Node and Java. I do exchange language, I teach Portuguese for abroad people who are interested.</p>
+<p align="left">✨ Working with tech since 2021. Currently, I work in a technology company in Brazil.<br>📚 I'm currently learning web frameworks and techs, English and studying at a university.<br>🎯 Goals: Graduate at uni, become a great IT professional both in QA side and in Dev side.<br>🎲 Fun fact: I started my first experience in IT area as a PHP programmer but I coded often in Javascript than PHP. Nowdays, I am into Backend development like Node and Java. I do exchange language, I teach Portuguese for abroad people who are interested.</p>
 
 ###
 
