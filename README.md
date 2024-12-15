@@ -1,35 +1,32 @@
-<h1 align="left">👋 It's me</h1>
+<h1 align="left">👋 Hello, I'm Leonardo</h1>
 
-###
+<p align="left">
+    My name is Leonardo, I am a Test Automation Developer and English student based in Brazil.
+</p>
 
-<p align="left">My name is Leonardo and I'm a Test Automation Developer and a student on IT area  and English. I'm from Brazil.</p>
+<h2 align="left">About Me</h2>
 
-###
+<p align="left">
+    ✨ I have been working in the tech industry since 2021 and currently hold a position as a Test Automation Developer at a technology company in Brazil.<br>
+    📚 I am continuously expanding my knowledge by studying Java and backend development, learning new web frameworks and technologies, improving my English, and pursuing a university degree.<br>
+    🎯 My goals include advancing my career by achieving a role as a Java Backend Developer.<br>
+    🎲 Fun fact: My journey in IT began as a PHP programmer, although I frequently coded in JavaScript. Nowadays, I focus on backend development with Java. Additionally, I enjoy language exchange and teaching Portuguese to people from other countries.
+</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Working with tech since 2021. Currently, I work in a technology company in Brazil.<br>📚 I'm currently learning web frameworks and techs, English and studying at a university.<br>🎯 Goals: Graduate at uni, become a great IT professional both in QA side and in Dev side.<br>🎲 Fun fact: I started my first experience in IT area as a PHP programmer but I coded often in Javascript than PHP. Nowdays, I am into Backend development like Node and Java. I do exchange language, I teach Portuguese for abroad people who are interested.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">Languages and Frameworks I Work With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
+  <img width="12" />    
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="40" alt="Selenium logo"  />
+  <img width="12" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-
-###
