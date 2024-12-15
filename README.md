@@ -8,9 +8,9 @@
 
 <p align="left">
     ✨ I have been working in the tech industry since 2021 and currently hold a position as a Test Automation Developer at a technology company in Brazil.<br>
-    📚 I am continuously expanding my knowledge by studying Java and backend development, learning new web frameworks and technologies, improving my English, and pursuing a university degree.<br>
+    📚 I am continuously expanding my knowledge by studying Java and backend development, learning new frameworks and technologies, and improving my English.<br>
     🎯 My goals include advancing my career by achieving a role as a Java Backend Developer.<br>
-    🎲 Fun fact: My journey in IT began as a PHP programmer, although I frequently coded in JavaScript. Nowadays, I focus on backend development with Java. Additionally, I enjoy language exchange and teaching Portuguese to people from other countries.
+    🎲 Fun fact: My journey in IT began as a PHP programmer, although I frequently coded in JavaScript. Nowadays, I focus on backend development with Java. Additionally, I do language exchange and teaching Portuguese to people from other countries.
 </p>
 
 <h2 align="left">Languages and Frameworks I Work With</h2>
